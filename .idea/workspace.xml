@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58ca5dcd-41c9-4a5b-9479-783677c799c5" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/code_parent$Test.coverage" NAME="Test Coverage Results" MODIFIED="1513923287467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.code.util.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="code-parent" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jYR1hGfNam3uHlyaafmCYz1br2" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CFML</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Concurrency annotation issuesJava</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>FreeMarker inspections</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSF annotated elements errors</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Memory issuesJava</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Tapestry inspections</id>
+          </State>
+          <State>
+            <id>Velocity inspections</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594872773767" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1508772" />
+    <property name="project.structure.side.proportion" value="0.14942528" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="template" />
+      <recent name="com.code.util" />
+      <recent name="com.code.bean" />
+      <recent name="com.code" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javawork_idea\code-parent\src\main\resources\dm" />
+      <recent name="D:\workspace\code-parent\src\main\resources" />
+      <recent name="D:\workspace\code-parent\src\main\resources\qd" />
+      <recent name="D:\workspace\code-parent\src\main\resources\itrip" />
+      <recent name="D:\workspace\itripbackend\code-parent\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Genterator">
+    <configuration default="true" type="AndroidRunConfigurationType">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Genterator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code.Genterator" />
+      <module name="code-parent" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code.util.StringUtils" />
+      <module name="code-parent" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.code.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.code.util.Test" />
+      <module name="code-parent" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.code.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="false" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Genterator" />
+      <item itemvalue="Application.StringUtils" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.StringUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58ca5dcd-41c9-4a5b-9479-783677c799c5" name="Default" comment="" />
+      <created>1496387444518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496387444518</updated>
+      <workItem from="1496387446870" duration="2394000" />
+      <workItem from="1496390854944" duration="4919000" />
+      <workItem from="1496626873386" duration="2199000" />
+      <workItem from="1496629176908" duration="9825000" />
+      <workItem from="1496728221122" duration="974000" />
+      <workItem from="1496729345278" duration="5395000" />
+      <workItem from="1496816021296" duration="767000" />
+      <workItem from="1497236508187" duration="7264000" />
+      <workItem from="1497943335652" duration="2432000" />
+      <workItem from="1498110727400" duration="86000" />
+      <workItem from="1498110847862" duration="12000" />
+      <workItem from="1500531939913" duration="2385000" />
+      <workItem from="1502872497064" duration="21000" />
+      <workItem from="1502872528516" duration="622000" />
+      <workItem from="1504151655455" duration="1207000" />
+      <workItem from="1504156608685" duration="611000" />
+      <workItem from="1504162196832" duration="396000" />
+      <workItem from="1504163015504" duration="6000" />
+      <workItem from="1504253881807" duration="627000" />
+      <workItem from="1504255635066" duration="611000" />
+      <workItem from="1504504917776" duration="73000" />
+      <workItem from="1504505255098" duration="601000" />
+      <workItem from="1504570865602" duration="137000" />
+      <workItem from="1505181215213" duration="291000" />
+      <workItem from="1505182449691" duration="628000" />
+      <workItem from="1505270875607" duration="1676000" />
+      <workItem from="1505444777884" duration="662000" />
+      <workItem from="1505456287743" duration="349000" />
+      <workItem from="1505459498155" duration="5000" />
+      <workItem from="1505459581810" duration="601000" />
+      <workItem from="1505467099825" duration="120000" />
+      <workItem from="1505467449751" duration="6000" />
+      <workItem from="1505467580044" duration="196000" />
+      <workItem from="1505696814733" duration="1153000" />
+      <workItem from="1505704207094" duration="669000" />
+      <workItem from="1505705191283" duration="6000" />
+      <workItem from="1505706759076" duration="5000" />
+      <workItem from="1505711747205" duration="9000" />
+      <workItem from="1505712206671" duration="4000" />
+      <workItem from="1505729112861" duration="14000" />
+      <workItem from="1508912208709" duration="2111000" />
+      <workItem from="1508937380520" duration="2000" />
+      <workItem from="1508937387870" duration="171000" />
+      <workItem from="1509072639804" duration="103000" />
+      <workItem from="1509072874818" duration="7512000" />
+      <workItem from="1509084121347" duration="6835000" />
+      <workItem from="1509091391667" duration="4088000" />
+      <workItem from="1509263137637" duration="19620000" />
+      <workItem from="1509366910167" duration="1600000" />
+      <workItem from="1509409607249" duration="14000" />
+      <workItem from="1509410241108" duration="12592000" />
+      <workItem from="1509435693806" duration="12000" />
+      <workItem from="1509436320528" duration="1328000" />
+      <workItem from="1509441040760" duration="606000" />
+      <workItem from="1509497812405" duration="348000" />
+      <workItem from="1509499040725" duration="835000" />
+      <workItem from="1509591760747" duration="614000" />
+      <workItem from="1509594960268" duration="720000" />
+      <workItem from="1509604715607" duration="178000" />
+      <workItem from="1509609050265" duration="697000" />
+      <workItem from="1512029167902" duration="898000" />
+      <workItem from="1512352405541" duration="810000" />
+      <workItem from="1512637996799" duration="13000" />
+      <workItem from="1512651050357" duration="585000" />
+      <workItem from="1513130047580" duration="12000" />
+      <workItem from="1513843586040" duration="1799000" />
+      <workItem from="1513908537271" duration="5233000" />
+      <workItem from="1513923891986" duration="369000" />
+      <workItem from="1513925295022" duration="1201000" />
+      <workItem from="1513926602406" duration="1751000" />
+      <workItem from="1513929097844" duration="88000" />
+      <workItem from="1513929385776" duration="198000" />
+      <workItem from="1514266967625" duration="68000" />
+      <workItem from="1514267143339" duration="808000" />
+      <workItem from="1514447090176" duration="724000" />
+      <workItem from="1509239496205" duration="3000" />
+      <workItem from="1514514441631" duration="421000" />
+      <workItem from="1514514913582" duration="129000" />
+      <workItem from="1514515084731" duration="385000" />
+      <workItem from="1514517040252" duration="465000" />
+      <workItem from="1514517538537" duration="14000" />
+      <workItem from="1514870784416" duration="625000" />
+      <workItem from="1515029604700" duration="83000" />
+      <workItem from="1515324606387" duration="207000" />
+      <workItem from="1515327665752" duration="22000" />
+      <workItem from="1515806084936" duration="2118000" />
+      <workItem from="1515814564694" duration="753000" />
+      <workItem from="1515816196518" duration="182000" />
+      <workItem from="1515816403180" duration="897000" />
+      <workItem from="1515892698115" duration="36000" />
+      <workItem from="1515892816888" duration="760000" />
+      <workItem from="1515895562747" duration="21000" />
+      <workItem from="1515895834568" duration="1700000" />
+      <workItem from="1515897746429" duration="148000" />
+      <workItem from="1515897979704" duration="82000" />
+      <workItem from="1515898221483" duration="567000" />
+      <workItem from="1515923849139" duration="1700000" />
+      <workItem from="1515930992918" duration="129000" />
+      <workItem from="1515931585638" duration="6000" />
+      <workItem from="1516179588538" duration="355000" />
+      <workItem from="1516180028663" duration="145000" />
+      <workItem from="1516180508833" duration="1208000" />
+      <workItem from="1516243598355" duration="19000" />
+      <workItem from="1516692678348" duration="12000" />
+      <workItem from="1516703308142" duration="2208000" />
+      <workItem from="1516717006669" duration="301000" />
+      <workItem from="1508808342581" duration="101000" />
+      <workItem from="1516765163589" duration="236000" />
+      <workItem from="1516765437145" duration="1712000" />
+      <workItem from="1516768193141" duration="2493000" />
+      <workItem from="1518183344526" duration="506000" />
+      <workItem from="1518183891673" duration="10000" />
+      <workItem from="1518224498905" duration="24000" />
+      <workItem from="1518233554586" duration="9000" />
+      <workItem from="1518266554736" duration="22000" />
+      <workItem from="1518267015115" duration="9000" />
+      <workItem from="1518487035772" duration="26000" />
+      <workItem from="1518487123905" duration="32000" />
+      <workItem from="1518490913427" duration="301000" />
+      <workItem from="1518491245195" duration="363000" />
+      <workItem from="1518491787547" duration="28000" />
+      <workItem from="1518525107406" duration="9000" />
+      <workItem from="1518525137646" duration="4000" />
+      <workItem from="1518525681739" duration="4000" />
+      <workItem from="1518525998029" duration="94000" />
+      <workItem from="1518574074364" duration="21000" />
+      <workItem from="1518576675161" duration="11000" />
+      <workItem from="1518936490558" duration="14000" />
+      <workItem from="1518937750557" duration="461000" />
+      <workItem from="1518938923256" duration="7000" />
+      <workItem from="1519005981087" duration="602000" />
+      <workItem from="1519174316410" duration="38000" />
+      <workItem from="1508552751083" duration="151000" />
+      <workItem from="1519265428222" duration="3000" />
+      <workItem from="1519265729894" duration="661000" />
+      <workItem from="1519286197105" duration="42000" />
+      <workItem from="1520045508824" duration="1185000" />
+      <workItem from="1520056908603" duration="73000" />
+      <workItem from="1520057017379" duration="831000" />
+      <workItem from="1521123739388" duration="839000" />
+      <workItem from="1521208597643" duration="1367000" />
+      <workItem from="1521374604383" duration="30000" />
+      <workItem from="1521374986919" duration="63000" />
+      <workItem from="1526361140692" duration="18061000" />
+      <workItem from="1526456467873" duration="2586000" />
+      <workItem from="1526521593423" duration="3913000" />
+      <workItem from="1540524554830" duration="3255000" />
+      <workItem from="1540540427203" duration="2672000" />
+      <workItem from="1540777950696" duration="2052000" />
+      <workItem from="1540783911891" duration="9107000" />
+      <workItem from="1543029273445" duration="4368000" />
+      <workItem from="1543453072760" duration="4000" />
+      <workItem from="1543453211774" duration="4000" />
+      <workItem from="1543455560541" duration="596000" />
+      <workItem from="1551575527450" duration="1181000" />
+      <workItem from="1587620974800" duration="4528000" />
+      <workItem from="1587712909327" duration="607000" />
+      <workItem from="1588572542336" duration="685000" />
+      <workItem from="1588753091196" duration="164000" />
+      <workItem from="1588839560279" duration="91000" />
+      <workItem from="1588925568338" duration="144000" />
+      <workItem from="1588925758761" duration="222000" />
+      <workItem from="1594600253664" duration="1622000" />
+      <workItem from="1594872030796" duration="592000" />
+      <workItem from="1603978826594" duration="1302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/code/handler/TableHandler.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.14942528" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.14942528" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.14942528" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.14942528" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>code-parent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.14942528" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3413793" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: log4j:log4j:1.2.16</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.14942528" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
